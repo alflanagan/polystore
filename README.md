@@ -2,6 +2,11 @@
 
 System to unify cloud storage services, simulate single location with redundant storage.
 
+| Is this the Polystore you wanted? |
+| --------------------------------- |
+| I've made some attempt to ensure that the name of this project isn't a duplicate. There is at least one other polystore project on github: [paultyng/polystore](https://github.com/paulytng/polystore). It is only two files and hasn't been updated since 2015.|
+|Polystore is also the name given to a concept of storing big data in multiple databases: [The Case for Polystores](http://wp.sigmod.org/?p=1629). |
+
 You've got documents, images, messages, etc. stored in [Google Drive](https://drive.google.com/drive/my-drive), [Box](https://box.com), [Dropbox](https://dropbox.com), etc., etc.
 What if you could treat all these separate services like a single cloud drive? What if you could
 

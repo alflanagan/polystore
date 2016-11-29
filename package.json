@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/alflanagan/polystore/issues"
   },
-  "homepage": "https://github.com/alflanagan/polystore#readme"
+  "homepage": "https://github.com/alflanagan/polystore#readme",
+  "dependencies": {
+    "googleapis": "^14.2.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
 }
